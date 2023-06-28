@@ -1,0 +1,19 @@
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\bin\Debug\Any devices connect to FSW.exe.config
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\bin\Debug\Any devices connect to FSW.exe
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\bin\Debug\Any devices connect to FSW.pdb
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\bin\Debug\Appium.Net.dll
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\bin\Debug\Castle.Core.dll
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\bin\Debug\WebDriver.dll
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\bin\Debug\WebDriver.Support.dll
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\bin\Debug\Castle.Core.xml
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\bin\Debug\WebDriver.xml
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\bin\Debug\WebDriver.Support.xml
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\obj\Debug\Any devices connect to FSW.csproj.AssemblyReference.cache
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\obj\Debug\Any devices connect to FSW.csproj.SuggestedBindingRedirects.cache
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\obj\Debug\Any devices connect to FSW.csproj.CoreCompileInputs.cache
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\obj\Debug\Any devices connect to FSW.csproj.CopyComplete
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\obj\Debug\Any devices connect to FSW.exe
+C:\Users\xxdayred\source\repos\Any devices connect to FSW\obj\Debug\Any devices connect to FSW.pdb
